@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1445359962 source:/home/turupawn/Clases/Progra3Capybara/PrimerContacto/main.cpp
+	<iostream>
+	"ClaseEjemplo.h"
+
+1445359260 source:/home/turupawn/Clases/Progra3Capybara/PrimerContacto/ClaseEjemplo.cpp
+	"ClaseEjemplo.h"
+
+1445360530 /home/turupawn/Clases/Progra3Capybara/PrimerContacto/ClaseEjemplo.h
+	<iostream>
+

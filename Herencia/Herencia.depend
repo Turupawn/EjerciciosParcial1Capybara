@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1445446593 source:/home/turupawn/Clases/Progra3Capybara/Herencia/Personaje.cpp
+	"Personaje.h"
+
+1445531380 /home/turupawn/Clases/Progra3Capybara/Herencia/Personaje.h
+	<iostream>
+
+1445448214 source:/home/turupawn/Clases/Progra3Capybara/Herencia/main.cpp
+	<iostream>
+	"Personaje.h"
+	"Mago.h"
+	"Guerrero.h"
+	"Arquero.h"
+	<vector>
+
+1445447404 source:/home/turupawn/Clases/Progra3Capybara/Herencia/Arquero.cpp
+	"Arquero.h"
+
+1445447338 /home/turupawn/Clases/Progra3Capybara/Herencia/Arquero.h
+	"Personaje.h"
+
+1445447409 source:/home/turupawn/Clases/Progra3Capybara/Herencia/Guerrero.cpp
+	"Guerrero.h"
+
+1445447335 /home/turupawn/Clases/Progra3Capybara/Herencia/Guerrero.h
+	"Personaje.h"
+
+1445447413 source:/home/turupawn/Clases/Progra3Capybara/Herencia/Mago.cpp
+	"Mago.h"
+
+1445447297 /home/turupawn/Clases/Progra3Capybara/Herencia/Mago.h
+	"Personaje.h"
+
+1445531406 source:/home/turupawn/Clases/Progra3Capybara/Clase/Herencia/Arquero.cpp
+	"Arquero.h"
+
+1445447338 /home/turupawn/Clases/Progra3Capybara/Clase/Herencia/Arquero.h
+	"Personaje.h"
+
+1445531380 /home/turupawn/Clases/Progra3Capybara/Clase/Herencia/Personaje.h
+	<iostream>
+
+1445531419 source:/home/turupawn/Clases/Progra3Capybara/Clase/Herencia/Guerrero.cpp
+	"Guerrero.h"
+
+1445447335 /home/turupawn/Clases/Progra3Capybara/Clase/Herencia/Guerrero.h
+	"Personaje.h"
+
+1445531430 source:/home/turupawn/Clases/Progra3Capybara/Clase/Herencia/Mago.cpp
+	"Mago.h"
+
+1445447297 /home/turupawn/Clases/Progra3Capybara/Clase/Herencia/Mago.h
+	"Personaje.h"
+
+1445531425 source:/home/turupawn/Clases/Progra3Capybara/Clase/Herencia/Personaje.cpp
+	"Personaje.h"
+
+1445531494 source:/home/turupawn/Clases/Progra3Capybara/Clase/Herencia/main.cpp
+	<iostream>
+	"Personaje.h"
+	"Mago.h"
+	"Guerrero.h"
+	"Arquero.h"
+	<vector>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1445361369 source:/home/turupawn/Clases/Progra3Capybara/Directivas/A.cpp
+	"A.h"
+
+1445361547 /home/turupawn/Clases/Progra3Capybara/Directivas/A.h
+
+1445361379 source:/home/turupawn/Clases/Progra3Capybara/Directivas/B.cpp
+	"B.h"
+
+1445361434 /home/turupawn/Clases/Progra3Capybara/Directivas/B.h
+	"A.h"
+
+1445361387 source:/home/turupawn/Clases/Progra3Capybara/Directivas/C.cpp
+	"C.h"
+
+1445361451 /home/turupawn/Clases/Progra3Capybara/Directivas/C.h
+	"A.h"
+
+1445361518 source:/home/turupawn/Clases/Progra3Capybara/Directivas/main.cpp
+	<iostream>
+	"B.h"
+	"C.h"
+
