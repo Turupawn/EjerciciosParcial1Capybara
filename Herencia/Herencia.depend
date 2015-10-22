@@ -37,7 +37,7 @@
 1445447338 /home/turupawn/Clases/Progra3Capybara/Clase/Herencia/Arquero.h
 	"Personaje.h"
 
-1445531380 /home/turupawn/Clases/Progra3Capybara/Clase/Herencia/Personaje.h
+1445533683 /home/turupawn/Clases/Progra3Capybara/Clase/Herencia/Personaje.h
 	<iostream>
 
 1445531419 source:/home/turupawn/Clases/Progra3Capybara/Clase/Herencia/Guerrero.cpp
@@ -52,10 +52,10 @@
 1445447297 /home/turupawn/Clases/Progra3Capybara/Clase/Herencia/Mago.h
 	"Personaje.h"
 
-1445531425 source:/home/turupawn/Clases/Progra3Capybara/Clase/Herencia/Personaje.cpp
+1445533647 source:/home/turupawn/Clases/Progra3Capybara/Clase/Herencia/Personaje.cpp
 	"Personaje.h"
 
-1445531494 source:/home/turupawn/Clases/Progra3Capybara/Clase/Herencia/main.cpp
+1445533583 source:/home/turupawn/Clases/Progra3Capybara/Clase/Herencia/main.cpp
 	<iostream>
 	"Personaje.h"
 	"Mago.h"
