@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1445966879 source:/home/turupawn/Clases/Progra3Capybara/Clase/ListasEnlazadas/main.cpp
+1446052399 source:/home/turupawn/Clases/Progra3Capybara/Clase/ListasEnlazadas/main.cpp
 	<iostream>
 	"Lista.h"
 
@@ -12,6 +12,6 @@
 1446049921 source:/home/turupawn/Clases/Progra3Capybara/Clase/ListasEnlazadas/Lista.cpp
 	"Lista.h"
 
-1446050119 /home/turupawn/Clases/Progra3Capybara/Clase/ListasEnlazadas/Lista.h
+1446052441 /home/turupawn/Clases/Progra3Capybara/Clase/ListasEnlazadas/Lista.h
 	"Nodo.h"
 
