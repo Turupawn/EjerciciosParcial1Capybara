@@ -4,13 +4,21 @@
 #include<iostream>
 using namespace std;
 
+template <typename T>
 class Nodo
 {
     public:
-        int valor;
+        T valor;
         Nodo* siguiente;
-        Nodo(int valor);
-        virtual ~Nodo();
+        Nodo(T valor)
+        {
+            this->valor = valor;
+            this->siguiente = NULL;
+        }
+        virtual ~Nodo()
+        {
+
+        }
     protected:
     private:
 };
