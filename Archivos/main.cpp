@@ -6,13 +6,29 @@ using namespace std;
 int main()
 {
     ofstream out("ejemplo");
-    out<<"Test"<<endl;
+    for(int i=0;i<3;i++)
+    {
+        int num;
+        cout<<"Ingrese un numero: "<<endl;
+        cin>>num;
+        out<<num<<endl;
+    }
     out.close();
 
+    cout<<"===Leyendo del archivo==="<<endl;
     ifstream in("ejemplo");
-    string test;
-    in>>test;
-    cout<<test<<endl;
+    int num;
+//    while(!in.eof())
+//    {
+//        in>>num;
+//        cout<<"*"<<num<<endl;
+//    }
+    while(in>>num)
+    {
+        cout<<"*"<<num<<endl;
+    }
+
+    in.close();
 
     return 0;
 }
